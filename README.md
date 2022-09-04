@@ -2,5 +2,7 @@
 
 <h3>The idea was taken from youtube.</h3>
 
+<bold>Live Preview [here](https://justaway1.github.io/drumstick/)</bold>
+
 <p>Just play around with the keyboard and the corresponding keys!</p>
 <code>PS: The audio does not match with the text written below!</code>
