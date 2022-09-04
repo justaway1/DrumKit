@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: rgba(98, 93, 93, 0.348);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.word {
+    color: red;
+    margin-left: 0.2rem;
+}
+
+.idea {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1rem;
+    color: black;
+}
+
+.main--header {
+    font-size: 9rem;
+    color: rgba(4, 97, 179, 0.784);
+    display: flex;
+    flex-direction: column;
+    letter-spacing: .1rem;
+    border-bottom: 1rem solid rgba(1, 39, 48, 0.234);
+    padding: 0.4rem;
+}
+
+
+
+.image--location {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image--location > img {
+    width: 20%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+
+.key {
+    border: 0.2rem solid black;
+    border-radius: .8rem;
+    width: 10rem;
+    padding: 1rem;
+    text-align: center;
+    margin: .5rem;
+    background-color: rgba(50, 242, 242, 0.676);
+    transition: all 0.6s ease;
+    box-shadow: .2rem .2rem .1rem rgba(35, 34, 34, 0.307);
+}
+
+kbd {
+    display: block;
+    font-size: 4rem;
+    color: #fff;
+}
+
+.sound {
+    font-size: 1.3rem;
+    color: rgb(252, 2, 19);
+    letter-spacing: .1rem;
+}
