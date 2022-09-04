@@ -39,12 +39,15 @@ header {
 
 
 
+
+
 .image--location {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.image--location > img {
+
+.image--location>img {
     width: 20%;
 }
 
@@ -57,6 +60,7 @@ img {
     justify-content: center;
     align-items: center;
     height: 20vh;
+    margin-bottom: 30px;
 }
 
 
@@ -66,9 +70,15 @@ img {
     width: 10rem;
     padding: 1rem;
     text-align: center;
-    margin: .5rem;
+    margin: .7rem;
     background-color: rgba(50, 242, 242, 0.676);
-    transition: all 0.6s ease;
+    transition: all 0.02s ease;
+    box-shadow: .2rem .2rem .1rem rgba(35, 34, 34, 0.307);
+}
+
+.audioEffect {
+    border: 0.2rem solid rgba(212, 4, 4, 0.877);
+    transform: scale(1.1);
     box-shadow: .2rem .2rem .1rem rgba(35, 34, 34, 0.307);
 }
 
