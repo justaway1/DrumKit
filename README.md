@@ -1,6 +1,6 @@
-<h1>Just a simple Drum kit</h1>.
+<h1>Just a simple Drum kit</h1>
 
-<h3>The idea was taken from youtube.</h3>.
+<h3>The idea was taken from youtube.</h3>
 
 <strong>Live Preview [here](https://justaway1.github.io/DrumKit//)</strong>
 
