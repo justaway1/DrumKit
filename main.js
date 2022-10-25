@@ -17,3 +17,5 @@ function removeBorder(event) {
 
 const keys = document.querySelectorAll('.key');
 keys.forEach(key => key.addEventListener('transitionend', removeBorder))
+
+
