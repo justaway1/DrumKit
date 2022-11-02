@@ -7,4 +7,4 @@
 <p>Just play around with the keyboard and the corresponding keys!</p>
 <code>PS: The audio does not match with the text written below!</code>
 
-//happy coding/
+happy coding
